@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](big-page.jpg)
+![screenshot](big-page.JPG)
 
 
 
